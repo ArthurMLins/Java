@@ -18,7 +18,7 @@ public class Program {
 		
 		retangulo1.Height = sc.nextDouble();
 		
-		System.out.printf("AREA = %.2f%n!", retangulo1.area());
+		System.out.printf("AREA = %.2f%n", retangulo1.area());
 		System.out.printf("PERIMETER = %.2f%n", retangulo1.perimeter());
 		System.out.printf("DIAGONAL = %.2f%n", retangulo1.Diagonal());
 		
